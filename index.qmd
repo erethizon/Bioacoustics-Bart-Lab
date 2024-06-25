@@ -1,9 +1,8 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+## Biodiversity
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Measuring and monitoring biodiversity are crucial if we hope to stem the rampant biodiversity loss currently facing our world.
 
-```{r}
-1 + 1
-```
+This document provides an overview and instructions on our (and by "our" I mean the folks conducting research in the Barthelmess Lab at St. Lawrence University, aka the SLU Mammal Crew) deploy workflow for using AudioMoth acoustic recorders as one means of measuring and monitoring biodiversity in the North Country.
+
